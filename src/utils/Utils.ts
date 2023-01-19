@@ -2,7 +2,7 @@ import { AxiosResponse, AxiosError, AxiosInstance } from 'axios';
 import axios from 'axios';
 
 export let axiosInstance: AxiosInstance = axios.create({
-  baseURL: 'http://15.229.3.218:3333',
+  baseURL: 'https://15.229.3.218:3333',
   timeout: 15000,
 });
 
