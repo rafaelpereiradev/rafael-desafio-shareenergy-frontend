@@ -1,0 +1,33 @@
+{
+  "shareenergy": {
+    "custom": {
+      "primary": {
+        "value": "#380564"
+      },
+      "secondary": {
+        "value": "#270147"
+      }
+    },
+    "black-colors": {
+      "black-01": {
+        "value": "#181818"
+      }
+    },
+    "white-colors": {
+      "white-01": {
+        "value": "#ffffff"
+      },
+      "white-02": {
+        "value": "#f00"
+      }
+    },
+    "grey-colors": {
+      "grey-01": {
+        "value": "#9e9e9e"
+      },
+      "grey-02": {
+        "value": "#efeded"
+      }
+    }
+  }
+}
