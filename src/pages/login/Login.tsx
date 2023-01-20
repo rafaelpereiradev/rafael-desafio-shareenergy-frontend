@@ -75,7 +75,7 @@ export default function Login() {
         form={
           <FormAuth
             Title={{
-              children: 'Desafio Share Energy TESTE',
+              children: 'Desafio Share Energy',
               variant: 'h5',
             }}
             TextFieldUser={{
