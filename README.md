@@ -48,7 +48,7 @@ São coleções de átomos que formam componentes da interface relativamente sim
 São componentes relativamente complexos que formam seções distintas de uma interface.
 
 ### Templates
-Colocam os componentes em uml ayoute demonstrama estrutura do design.
+Colocam os componentes em um layout e demonstram a estrutura do design.
 
 ### Pages(Pages)
 Aplicam conteúdo real aos Templates
